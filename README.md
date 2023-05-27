@@ -24,7 +24,7 @@ To run the code and Docker version, you need to have the following dependencies 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/CireWire/character-recognition.git
+   git clone https://github.com/CireWire/fuzzy-octo-rotary-phone.git
    ```
 
 2. Install the required dependencies. You can use `pip` to install them:
